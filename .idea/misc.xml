@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CS175-Homework/Homework6/app/src/main/res/layout/activity_image.xml" value="0.17980072463768115" />
+        <entry key="..\:/CS175-Homework/Homework6/app/src/main/res/layout/activity_video.xml" value="0.17980072463768115" />
+        <entry key="..\:/CS175-Homework/Homework6/app/src/main/res/layout/index.xml" value="0.1046875" />
+        <entry key="..\:/CS175-Homework/Homework6/app/src/main/res/layout/layout_media_player.xml" value="0.17980072463768115" />
+        <entry key="..\:/CS175-Homework/Homework6/app/src/main/res/layout/layout_video.xml" value="0.17980072463768115" />
+        <entry key="..\:/Users/gelon/Downloads/Chapter7-master/Chapter7-master/AndroidStudy/app/src/main/res/layout/index.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
